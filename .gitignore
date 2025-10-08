@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+
+# Development software
+/.idea
+/.phpstorm.meta.php
+/.vagrant
+/_ide_helper.php
+/_ide_helper_models.php
+/Homestead.json
+/Homestead.yaml
+/.php-cs-fixer.cache
+/.php-codesniffer.cache
+/.vscode
+
+
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
